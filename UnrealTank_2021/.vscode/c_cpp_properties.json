@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "UnrealTank_2021Editor Editor Win64 Development (UnrealTank_2021)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_UnrealTank_2021.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

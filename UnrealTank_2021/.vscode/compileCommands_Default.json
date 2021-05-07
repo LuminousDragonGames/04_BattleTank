@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Logan\\\\Desktop\\\\UE4Tank_2021\\\\UnrealTank_2021\\\\Source\\\\UnrealTank_2021\\\\UnrealTank_2021.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_Default\\UnrealTank_2021.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Logan\\\\Desktop\\\\UE4Tank_2021\\\\UnrealTank_2021\\\\Source\\\\UnrealTank_2021\\\\UnrealTank_2021.cpp",
+		"command": "cl.exe @\"C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_Default\\UnrealTank_2021.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Logan\\\\Desktop\\\\UE4Tank_2021\\\\UnrealTank_2021\\\\Source\\\\UnrealTank_2021\\\\UnrealTank_2021.h",
+		"command": "cl.exe @\"C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_Default\\UnrealTank_2021.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Logan\\\\Desktop\\\\UE4Tank_2021\\\\UnrealTank_2021\\\\Source\\\\UnrealTank_2021\\\\UnrealTank_2021GameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_Default\\UnrealTank_2021.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Logan\\\\Desktop\\\\UE4Tank_2021\\\\UnrealTank_2021\\\\Source\\\\UnrealTank_2021\\\\UnrealTank_2021GameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\Logan\\Desktop\\UE4Tank_2021\\UnrealTank_2021\\.vscode\\compileCommands_Default\\UnrealTank_2021.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
